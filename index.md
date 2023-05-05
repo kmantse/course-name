@@ -7,3 +7,12 @@
 
 
 ![Alt text](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+public Main(){
+public void Static(System.in){
+System.out.println('Hello World')
+}
+}
+```
